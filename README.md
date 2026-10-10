@@ -14,7 +14,7 @@ Pesquisa aplicada a modelos de linguagem compactos, tradução de linguagem natu
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🪪 Sobre mim
 
 Atuo em projetos que conectam **pesquisa em Inteligência Artificial**, **desenvolvimento de software** e **governança de IA**. Tenho interesse na aplicação prática de modelos de linguagem, no desenvolvimento e na avaliação de sistemas inteligentes, além de boas práticas de documentação, qualidade e gestão de riscos.
 
