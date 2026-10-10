@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Thiago Guedes, inteligência artificial, pesquisa e engenharia de software">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090F21"/><stop offset=".62" stop-color="#10294A"/><stop offset="1" stop-color="#0B1629"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#45DDDA"/><stop offset="1" stop-color="#4789FF"/></linearGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.3" fill="#9bc3eb" opacity=".20"/></pattern></defs>
+<rect width="1200" height="350" rx="20" fill="url(#bg)"/><rect width="1200" height="350" rx="20" fill="url(#dots)"/>
+<g fill="none" stroke="#69C5FF" stroke-width="2" opacity=".24"><circle cx="1030" cy="165" r="150"/><circle cx="1030" cy="165" r="115"/><circle cx="1030" cy="165" r="78"/><path d="M840 112 912 82 964 126 1030 50 1105 95 1170 62 M850 247 927 195 995 244 1067 182 1175 224"/></g>
+<g fill="#58E2E4"><circle cx="912" cy="82" r="6"/><circle cx="964" cy="126" r="5"/><circle cx="1030" cy="50" r="5"/><circle cx="1105" cy="95" r="5"/><circle cx="927" cy="195" r="5"/><circle cx="1067" cy="182" r="6"/></g>
+<rect x="65" y="61" width="66" height="5" rx="2" fill="url(#line)"/>
+<text x="65" y="117" fill="#94D8F6" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">PORTFÓLIO DE TECNOLOGIA</text>
+<text x="62" y="198" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="66" font-weight="700">Thiago Guedes</text>
+<text x="65" y="243" fill="#E1EDFA" font-family="Arial, sans-serif" font-size="23">Inteligência Artificial  •  Pesquisa em LLMs  •  Governança de IA</text>
+<rect x="65" y="275" width="363" height="37" rx="18" fill="#113C5A" stroke="#246B8B"/>
+<text x="86" y="299" fill="#BBEDF4" font-family="Arial, sans-serif" font-size="15" font-weight="700">Python  /  Machine Learning  /  Software</text>
+</svg>
