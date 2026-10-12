@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="Banner de Thiago Guedes, mestre em Informática pela Universidade de Brasília, com identidade visual tecnológica inspirada na Aionics" />
 
-### Inteligência Artificial • Pesquisa em LLMs • Governança de IA e Dados • Engenharia de Software
+### Inteligência Artificial • Pesquisa em LLMs • Governança de IA e Dados • Business Intelligence • Desenvolvimento de Software
 
 **Mestre em Informática pela Universidade de Brasília (UnB)**
 
@@ -11,7 +11,7 @@
 [![Pesquisa](https://img.shields.io/badge/Pesquisa-LLMs_e_DSLs-127C89?style=for-the-badge)](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
 [![Formação](https://img.shields.io/badge/Formação-Cursos_e_Certificados-6543A6?style=for-the-badge)](./docs/FORMACAO-COMPLEMENTAR.md)
 
-**[Projetos](#-portfólio-de-projetos) · [Pesquisa](#-pesquisa-em-destaque) · [Competências](#-competências-técnicas-e-referenciais) · [Formação](#-formação-complementar) · [Contato](#-contato)**
+**[Projetos](#-portfólio-de-projetos) · [BI e Dados](#-business-intelligence-e-análise-de-dados) · [Pesquisa](#-pesquisa-em-destaque) · [Competências](#-competências-técnicas-e-referenciais) · [Formação](#-formação-complementar) · [Contato](#-contato)**
 
 </div>
 
@@ -21,13 +21,13 @@
 
 Sou **Thiago Guedes**, mestre em Informática pela **Universidade de Brasília (UnB)**. Minha pesquisa investiga a tradução de linguagem natural para linguagens formais com **modelos de linguagem compactos**, aprendizado em contexto, representações intermediárias, validação e avaliação experimental.
 
-Meu portfólio conecta **pesquisa aplicada em Inteligência Artificial**, desenvolvimento de software e estudos em **Governança de IA e Dados**. Organizo projetos independentes com código, documentação e explicações das decisões técnicas, distinguindo resultados efetivamente executados de experimentos ainda em preparação.
+Meu portfólio conecta **pesquisa aplicada em Inteligência Artificial**, **Business Intelligence e análise de dados**, desenvolvimento de software e estudos em **Governança de IA e Dados**. Organizo projetos independentes com código, documentação e explicações das decisões técnicas, distinguindo resultados efetivamente executados de experimentos ainda em preparação.
 
 > **Como ler este perfil:** *projetos* mostram trabalhos publicados; *competências* incluem tecnologias utilizadas e conteúdos estudados; *formação complementar* documenta cursos concluídos. Conhecer uma norma ou concluir um curso não implica certificação profissional naquela tecnologia ou organismo.
 
 ## 📌 Portfólio de projetos
 
-Sete repositórios organizados por especialidade, com acesso direto ao código e à documentação.
+**8 projetos**, organizados em **5 áreas**, com acesso direto aos repositórios, códigos e documentação.
 
 ### 🔬 Pesquisa em IA e LLMs
 
@@ -42,6 +42,14 @@ Sete repositórios organizados por especialidade, com acesso direto ao código e
 | **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. |
 | **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Código para treinamento e comparação de redes recorrentes e convolucionais; resultados dependem de executar os experimentos. |
 | **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária em Python e NumPy, treinamento supervisionado e testes. |
+
+### 📊 Business Intelligence e Análise de Dados
+
+| Projeto | Tecnologias | Escopo |
+| :--- | :--- | :--- |
+| **[Análise da Manutenção Rodoviária](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Power BI, Power Query, DAX e Excel | Dashboard de acompanhamento de contratos rodoviários, com Índice de Condição da Manutenção (ICM), evolução dos indicadores, classificação dos segmentos e mapa de trechos críticos. |
+
+**Destaques do projeto:** filtros por contrato e período, comparação entre medições, distribuição da condição dos trechos e análise geográfica. O repositório reúne relatório Power BI, bases e documentação técnica.
 
 ### 🛡️ Governança de IA e Dados
 
@@ -108,6 +116,16 @@ As categorias abaixo diferenciam **linguagens**, **bibliotecas**, **plataformas*
 ![LIME](https://img.shields.io/badge/LIME-0D9488?style=flat-square)
 
 **Áreas:** aprendizado supervisionado, redes neurais, modelos Transformers, interpretabilidade e explicabilidade de IA (XAI), vieses e transparência. *SHAP e LIME são tópicos estudados em curso de explicabilidade, não reivindicação de implementação em produção.*
+
+### 📊 Business Intelligence, análise e visualização de dados
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-334155?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Dashboards](https://img.shields.io/badge/Dashboards-0E7490?style=flat-square)
+
+**Aplicação no portfólio:** preparação e organização de bases, criação de relatórios interativos, indicadores de desempenho, segmentação de dados e visualização geográfica de trechos rodoviários. DAX e Power Query são tecnologias associadas ao projeto Power BI; consulte o repositório para verificar os artefatos e transformações disponibilizados.
 
 ### ☁️ Plataformas, engenharia de dados e colaboração
 
@@ -197,10 +215,11 @@ Este perfil acompanha a progressão dos estudos e dos projetos. Novas tecnologia
 
 ## 📬 Contato
 
-Para conversar sobre **pesquisa aplicada em IA, Machine Learning, governança e desenvolvimento de software**, acesse meu [LinkedIn](https://www.linkedin.com/in/thiagoguedes1608/) ou explore os [repositórios do GitHub](https://github.com/CypherGuedes?tab=repositories).
+Para conversar sobre **pesquisa aplicada em IA, Machine Learning, Business Intelligence, governança e desenvolvimento de software**, acesse meu [LinkedIn](https://www.linkedin.com/in/thiagoguedes1608/) ou explore os [repositórios do GitHub](https://github.com/CypherGuedes?tab=repositories).
 
 <div align="center">
 
 <sub>Pesquisa aplicada · Desenvolvimento de software · Governança responsável · Aprendizado contínuo</sub>
 
 </div>
+
