@@ -31,38 +31,38 @@ Oito repositórios organizados por especialidade, com acesso direto ao código e
 
 ### 🔬 Pesquisa em IA e LLMs
 
-| Projeto | Escopo | Tecnologias e recursos |
+| Projeto | Escopo | Tecnologias e competências |
 | :--- | :--- | :--- |
-| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Tradução de linguagem natural para uma DSL, representação intermediária, aprendizado em contexto, validação e autocorreção. | **Python**, Jupyter Notebook, **LLMs**, ICL, IR, gramáticas **BNF/EBNF**, lexer, parser, **JSON**, CSV, avaliação sintática e semântica. |
+| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Tradução de linguagem natural para uma DSL, representação intermediária, aprendizado em contexto, validação e autocorreção. | **Python**, **LLMs**, **Processamento de Linguagem Natural (PLN)**, **Prompt Engineering**, **In-Context Learning (ICL)**, **Jupyter Notebook**. |
 
 ### 🧠 Inteligência Artificial, Machine Learning e Deep Learning
 
-| Projeto | Escopo | Tecnologias e recursos |
+| Projeto | Escopo | Tecnologias e competências |
 | :--- | :--- | :--- |
-| **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. | **Python**, NumPy, Pandas, scikit-learn, **NLTK**, tiktoken, **PyTorch**, TensorFlow, Hugging Face Transformers, Datasets, Accelerate, Matplotlib, UMAP, JupyterLab e pytest. |
-| **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Código para treinamento e comparação de redes recorrentes e convolucionais; resultados dependem de executar os experimentos. | **Python**, **TensorFlow/Keras**, NumPy, Matplotlib, scikit-learn, **Fashion-MNIST**, RNN e CNN. |
-| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária em Python e NumPy, treinamento supervisionado e testes. | **Python**, **NumPy**, Matplotlib, Jupyter Notebook, Perceptron, classificação binária e treinamento supervisionado. |
+| **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. | **Python**, **PyTorch**, **TensorFlow**, **Hugging Face Transformers**, **scikit-learn**, **NLTK**, **Pandas**, **NumPy**, **JupyterLab**. |
+| **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Código para treinamento e comparação de redes recorrentes e convolucionais; resultados dependem de executar os experimentos. | **Python**, **TensorFlow**, **Keras**, **scikit-learn**, **NumPy**, **Matplotlib**, **Deep Learning**. |
+| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária em Python e NumPy, treinamento supervisionado e testes. | **Python**, **NumPy**, **Matplotlib**, **Jupyter Notebook**, **Machine Learning**. |
 
 ### 📊 Business Intelligence e Análise de Dados
 
-| Projeto | Escopo | Tecnologias e recursos |
+| Projeto | Escopo | Tecnologias e competências |
 | :--- | :--- | :--- |
-| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de condição rodoviária com ICM, evolução contratual, distribuição por classificação e mapa de trechos críticos. Utiliza dados fictícios. | **Power BI**, Excel, **CSV**, **JSON**, Python (script de auditoria), dashboard interativo, indicadores ICM e análise geográfica. |
+| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de condição rodoviária com ICM, evolução contratual, distribuição por classificação e mapa de trechos críticos. Utiliza dados fictícios. | **Power BI**, **Microsoft Excel**, **Python**, **Business Intelligence (BI)**, **Visualização de Dados**, **Análise Geográfica**. |
 
 ### 🛡️ Governança de IA e Dados
 
-| Projeto | Escopo | Tecnologias e recursos |
+| Projeto | Escopo | Tecnologias e competências |
 | :--- | :--- | :--- |
-| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | **Markdown**, **CSV**, **Mermaid**, matrizes de riscos, plano de ação, ontologia de crédito, avaliação de maturidade, **DAMA-DMBOK** e governança de IA. |
+| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | **Governança de Dados**, **Governança de IA**, **DAMA-DMBOK**, **Gestão de Riscos**, **Qualidade de Dados**, **IA Responsável**. |
 
 ### 💻 Desenvolvimento com Dart
 
-| Projeto | Escopo | Tecnologias e recursos |
+| Projeto | Escopo | Tecnologias e competências |
 | :--- | :--- | :--- |
-| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Entrada e saída de dados, manipulação de strings e interação no terminal. | **Dart**, Dart SDK, `dart:io`, `stdin`, interpolação de strings, terminal e regras de análise (`lints`). |
-| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Exercício de construção de uma calculadora para terminal com Dart. | **Dart**, Dart SDK, operações aritméticas, entrada e saída no terminal, pacote **test** e regras de análise (`lints`). |
+| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Entrada e saída de dados, manipulação de strings e interação no terminal. | **Dart**, **Dart SDK**, **Programação de Aplicações de Linha de Comando (CLI)**. |
+| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Exercício de construção de uma calculadora para terminal com Dart. | **Dart**, **Dart SDK**, **Testes Automatizados**, **Programação de Aplicações de Linha de Comando (CLI)**. |
 
-*As tecnologias e os recursos refletem os arquivos dos repositórios enviados. Dependências declaradas não significam necessariamente utilização em produção. Flutter não foi atribuído aos dois projetos de terminal, pois são aplicações Dart de linha de comando.*
+*As tecnologias e competências foram selecionadas por relevância profissional. A presença de uma biblioteca como dependência não comprova experiência em produção. Os projetos Dart apresentados são aplicações de terminal, não projetos Flutter.*
 
 ## 🔬 Pesquisa em destaque
 
