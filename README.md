@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="Banner de Thiago Guedes, mestre em Informática pela Universidade de Brasília, com identidade visual tecnológica inspirada na Aionics" />
 
-### Desenvolvimento Mobile • Engenharia de Machine Learning • Agentes de IA • Governança de Dados e IA • Desenvolvimento Backend
+### Desenvolvimento Mobile • Engenharia de Machine Learning • Agentes de IA • Governança de Dados e IA • Desenvolvimento Backend • Dados e Business Intelligence
 
 **Mestre em Informática pela Universidade de Brasília (UnB)**
 
@@ -27,7 +27,7 @@ Meu portfólio reúne projetos de **Engenharia de Machine Learning**, **LLMs**, 
 
 ## 📌 Portfólio de projetos
 
-**8 repositórios publicados**, apresentados nas cinco áreas de interesse profissional. Os projetos de terminal em Dart são classificados como fundamentos de desenvolvimento mobile, sem serem apresentados como aplicativos Flutter. O projeto de Power BI aparece na área de Backend e Dados como uma frente de análise de dados, sem ser classificado como aplicação backend.
+**8 repositórios publicados**, organizados por área de atuação. Os projetos em Dart demonstram fundamentos da linguagem, não aplicativos Flutter. O projeto de Power BI está na área de Dados e Business Intelligence, separado de Desenvolvimento Backend.
 
 ### 📱 Desenvolvimento Mobile
 
@@ -60,13 +60,15 @@ Meu portfólio reúne projetos de **Engenharia de Machine Learning**, **LLMs**, 
 | :--- | :--- | :--- |
 | **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso de maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | **DAMA-DMBOK**, **NIST AI RMF**, **ISO/IEC 42001**, **LGPD** |
 
-### 💻 Desenvolvimento Backend e Dados
+### 📊 Dados e Business Intelligence
 
-| Projeto relacionado | Escopo | Tecnologias |
+| Projeto | Escopo | Tecnologias |
 | :--- | :--- | :--- |
-| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Business Intelligence: indicadores ICM, evolução contratual, classificação de segmentos e mapa de trechos críticos, com dados fictícios. | **Power BI**, **Microsoft Excel**, **Python** |
+| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de manutenção rodoviária com indicadores ICM, evolução contratual, classificação dos segmentos e mapa de trechos críticos, utilizando dados fictícios. | **Power BI**, **Microsoft Excel**, **Python** |
 
-*O projeto demonstra BI e tratamento de dados, não uma API ou serviço backend. Java e JavaScript aparecem abaixo como linguagens estudadas, sem repositório backend específico entre os oito projetos.*
+### 💻 Desenvolvimento Backend
+
+*Área de competências e estudos. Ainda não há um repositório dedicado a APIs ou serviços backend entre os oito projetos publicados.*
 
 ## 🔬 Pesquisa em destaque
 
@@ -172,7 +174,7 @@ As cinco áreas abaixo seguem a organização profissional escolhida. Os selos m
 
 *Java e JavaScript constam como conhecimentos ou estudos. Não há um projeto backend Java ou JavaScript entre os oito repositórios listados.*
 
-#### 📊 Business Intelligence e análise de dados
+### 📊 Dados e Business Intelligence
 
 **Plataformas e ferramentas**
 
@@ -184,7 +186,7 @@ As cinco áreas abaixo seguem a organização profissional escolhida. Os selos m
 
 **Projeto:** [Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)
 
-*As bibliotecas de análise também aparecem nos projetos de Machine Learning; não são necessariamente utilizadas no dashboard Power BI.*
+*Pandas, NumPy e Matplotlib são bibliotecas presentes em outros projetos de análise e Machine Learning. Sua listagem não significa que todas foram utilizadas no dashboard.*
 
 ---
 
