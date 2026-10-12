@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="Banner de Thiago Guedes, mestre em Informática pela Universidade de Brasília, com identidade visual tecnológica inspirada na Aionics" />
 
-### Inteligência Artificial • LLMs • Governança de IA e Dados • Business Intelligence • Desenvolvimento de Software
+### Desenvolvimento Mobile • Engenharia de Machine Learning • Agentes de IA • Governança de Dados e IA • Desenvolvimento Backend
 
 **Mestre em Informática pela Universidade de Brasília (UnB)**
 
@@ -11,7 +11,7 @@
 [![Pesquisa](https://img.shields.io/badge/Pesquisa-LLMs_e_DSLs-127C89?style=for-the-badge)](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
 [![Formação](https://img.shields.io/badge/Formação-Cursos_e_Certificados-6543A6?style=for-the-badge)](./docs/FORMACAO-COMPLEMENTAR.md)
 
-**[Projetos](#-portfólio-de-projetos) · [Pesquisa](#-pesquisa-em-destaque) · [Tecnologias](#-tecnologias-e-ferramentas) · [Governança](#-governança-normas-e-referenciais) · [Formação](#-formação-complementar) · [Contato](#-contato)**
+**[Projetos](#-portfólio-de-projetos) · [Pesquisa](#-pesquisa-em-destaque) · [Tecnologias](#-tecnologias-ferramentas-e-referenciais-por-área) · [Formação](#-formação-complementar) · [Contato](#-contato)**
 
 </div>
 
@@ -21,48 +21,52 @@
 
 Sou **Thiago Guedes**, mestre em Informática pela **Universidade de Brasília (UnB)**. Minha pesquisa investiga a tradução de linguagem natural para linguagens formais com **modelos de linguagem compactos**, aprendizado em contexto, representações intermediárias, validação e avaliação experimental.
 
-Meu portfólio conecta **pesquisa aplicada em Inteligência Artificial**, **Business Intelligence e análise de dados**, desenvolvimento de software e estudos em **Governança de IA e Dados**. Organizo projetos independentes com código, documentação e explicações das decisões técnicas, distinguindo resultados efetivamente executados de experimentos ainda em preparação.
+Meu portfólio reúne projetos de **Engenharia de Machine Learning**, **LLMs**, **Business Intelligence**, **Governança de Dados e IA** e fundamentos de **Desenvolvimento Mobile** e **Backend**. Organizo projetos independentes com código, documentação e explicações das decisões técnicas, distinguindo resultados efetivamente executados de experimentos ainda em preparação.
 
 > **Como ler este perfil:** *projetos* mostram trabalhos publicados; *competências* incluem tecnologias utilizadas e conteúdos estudados; *formação complementar* documenta cursos concluídos. Conhecer uma norma ou concluir um curso não implica certificação profissional naquela tecnologia ou organismo.
 
 ## 📌 Portfólio de projetos
 
-Oito repositórios organizados por especialidade, com acesso direto ao código e à documentação.
+**8 repositórios publicados**, apresentados nas cinco áreas de interesse profissional. Os projetos de terminal em Dart são classificados como fundamentos de desenvolvimento mobile, sem serem apresentados como aplicativos Flutter. O projeto de Power BI aparece na área de Backend e Dados como uma frente de análise de dados, sem ser classificado como aplicação backend.
 
-### 🔬 Pesquisa em IA e LLMs
+### 📱 Desenvolvimento Mobile
 
-| Projeto | Escopo | Tecnologias e ferramentas |
+| Projeto | Escopo | Tecnologias |
 | :--- | :--- | :--- |
-| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Tradução de linguagem natural para uma DSL, representação intermediária, aprendizado em contexto, validação e autocorreção. | **Python**, **Jupyter Notebook**. |
+| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Aplicação de terminal para interação com usuário e manipulação de texto. | **Dart**, **Dart SDK** |
+| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Calculadora desenvolvida para execução no terminal. | **Dart**, **Dart SDK** |
 
-### 🧠 Inteligência Artificial, Machine Learning e Deep Learning
+*São exercícios em Dart, não aplicativos Flutter publicados.*
 
-| Projeto | Escopo | Tecnologias e ferramentas |
+### 🧠 Engenharia de Machine Learning
+
+| Projeto | Escopo | Tecnologias |
 | :--- | :--- | :--- |
-| **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. | **Python**, **PyTorch**, **TensorFlow**, **Hugging Face Transformers**, **scikit-learn**, **NLTK**, **Pandas**, **NumPy**, **JupyterLab**. |
-| **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Código para treinamento e comparação de redes recorrentes e convolucionais; resultados dependem de executar os experimentos. | **Python**, **TensorFlow**, **Keras**, **scikit-learn**, **NumPy**, **Matplotlib**. |
-| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária em Python e NumPy, treinamento supervisionado e testes. | **Python**, **NumPy**, **Matplotlib**, **Jupyter Notebook**. |
+| **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização, classificação textual e experimentos com DistilBERT e GPT-2. | **Python**, **PyTorch**, **TensorFlow**, **Hugging Face Transformers**, **scikit-learn**, **NLTK**, **Pandas**, **NumPy**, **JupyterLab** |
+| **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Implementações para treinamento e comparação de redes neurais. | **Python**, **TensorFlow**, **Keras**, **scikit-learn**, **NumPy**, **Matplotlib** |
+| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Implementação de classificação binária e treinamento supervisionado. | **Python**, **NumPy**, **Matplotlib**, **Jupyter Notebook** |
 
-### 📊 Business Intelligence e Análise de Dados
+### 🤖 Agentes de IA e LLMs
 
-| Projeto | Escopo | Tecnologias e ferramentas |
+| Projeto relacionado | Escopo | Tecnologias |
 | :--- | :--- | :--- |
-| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de condição rodoviária com ICM, evolução contratual, distribuição por classificação e mapa de trechos críticos. Utiliza dados fictícios. | **Power BI**, **Microsoft Excel**, **Python**. |
+| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Pesquisa em tradução de linguagem natural para DSL com validação e autocorreção. | **Python**, **Jupyter Notebook**, **Kaggle** |
 
-### 🛡️ Governança de IA e Dados
+*Este projeto demonstra pesquisa com LLMs, mas não comprova, por si só, a implementação de um agente autônomo. A área representa o direcionamento de estudos e desenvolvimento.*
 
-| Projeto | Escopo | Tecnologias e ferramentas |
+### 🛡️ Governança de Dados e IA
+
+| Projeto | Escopo | Referenciais |
 | :--- | :--- | :--- |
-| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | **DAMA-DMBOK**, **NIST AI RMF**, **ISO/IEC 42001**, **LGPD** como referenciais de estudo; não são frameworks de software. |
+| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso de maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | **DAMA-DMBOK**, **NIST AI RMF**, **ISO/IEC 42001**, **LGPD** |
 
-### 💻 Desenvolvimento com Dart
+### 💻 Desenvolvimento Backend e Dados
 
-| Projeto | Escopo | Tecnologias e ferramentas |
+| Projeto relacionado | Escopo | Tecnologias |
 | :--- | :--- | :--- |
-| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Entrada e saída de dados, manipulação de strings e interação no terminal. | **Dart**, **Dart SDK**. |
-| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Exercício de construção de uma calculadora para terminal com Dart. | **Dart**, **Dart SDK**. |
+| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Business Intelligence: indicadores ICM, evolução contratual, classificação de segmentos e mapa de trechos críticos, com dados fictícios. | **Power BI**, **Microsoft Excel**, **Python** |
 
-*As colunas listam apenas linguagens, ferramentas, bibliotecas, frameworks e ambientes identificados. A presença de uma biblioteca como dependência não comprova experiência em produção. Os projetos Dart apresentados são aplicações de terminal, não projetos Flutter.*
+*O projeto demonstra BI e tratamento de dados, não uma API ou serviço backend. Java e JavaScript aparecem abaixo como linguagens estudadas, sem repositório backend específico entre os oito projetos.*
 
 ## 🔬 Pesquisa em destaque
 
@@ -78,147 +82,109 @@ Pesquisa de mestrado sobre a tradução de instruções em linguagem natural par
 
 ---
 
-## 🧰 Competências técnicas por área
+## 🧰 Tecnologias, ferramentas e referenciais por área
 
-As competências estão agrupadas por áreas de atuação, seguindo uma organização semelhante às carreiras da Alura, **limitada às áreas representadas pelos projetos publicados neste GitHub**. Em cada área, as ferramentas são separadas por natureza. Tecnologias de cursos e estudos são identificadas para não serem confundidas com implementações dos projetos.
+As cinco áreas abaixo seguem a organização profissional escolhida. Os selos mostram **linguagens, frameworks, bibliotecas, IDEs, ambientes, plataformas, ferramentas e normas**. Conhecimentos de formação complementar são identificados separadamente dos projetos publicados.
 
-### 🧠 Inteligência Artificial e Machine Learning
+### 📱 Desenvolvimento Mobile
 
-**Projetos:** [Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural), [Comparação RNN e CNN](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist) e [Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero).
+**Linguagens e SDKs**
 
-#### Linguagens
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Dart SDK](https://img.shields.io/badge/Dart_SDK-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Frameworks e ferramentas de desenvolvimento**
 
-#### Frameworks de IA
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**Projetos:** [Saudação Interativa](https://github.com/CypherGuedes/saudacao-interativa-dart) · [Calculadora](https://github.com/CypherGuedes/calculadora-terminal-dart)
 
-#### Bibliotecas
+*Flutter integra os estudos de desenvolvimento mobile, mas os dois repositórios publicados utilizam Dart no terminal.*
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![NLTK](https://img.shields.io/badge/NLTK-276DC3?style=flat-square)
-![Hugging Face Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![tiktoken](https://img.shields.io/badge/tiktoken-334155?style=flat-square)
-![Hugging Face Datasets](https://img.shields.io/badge/Hugging_Face_Datasets-FFB000?style=flat-square)
-![Accelerate](https://img.shields.io/badge/Accelerate-4F46E5?style=flat-square)
-![UMAP](https://img.shields.io/badge/UMAP-0F766E?style=flat-square)
+### 🧠 Engenharia de Machine Learning
 
-#### Ambientes e plataformas
-
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-
-*Algumas bibliotecas constam como dependências declaradas nos repositórios; isso não implica utilização em todos os experimentos.*
-
-### 🔬 Pesquisa em LLMs e Processamento de Linguagem Natural
-
-**Projeto:** [Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto).
-
-#### Linguagens
+**Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### Ambientes
+**Frameworks**
 
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Área de pesquisa:** LLMs, aprendizado em contexto, tradução para DSLs, validação e avaliação experimental. Esses termos descrevem competências e métodos, não ferramentas de software.
+**Bibliotecas**
 
-### 📊 Business Intelligence e Análise de Dados
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![NLTK](https://img.shields.io/badge/NLTK-276DC3?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Projeto:** [Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi).
+**Ambientes e plataformas**
 
-#### Plataformas de BI
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Projetos:** [PLN](https://github.com/CypherGuedes/processamento-linguagem-natural) · [RNN e CNN](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist) · [Perceptron](https://github.com/CypherGuedes/perceptron-do-zero)
 
-#### Ferramentas de dados
+### 🤖 Agentes de IA e LLMs
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square)
-
-#### Linguagens
+**Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### Bibliotecas para análise e visualização
+**Bibliotecas relacionadas a LLMs e PLN**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Datasets](https://img.shields.io/badge/Hugging_Face_Datasets-FFB000?style=flat-square) ![Accelerate](https://img.shields.io/badge/Accelerate-4F46E5?style=flat-square) ![tiktoken](https://img.shields.io/badge/tiktoken-334155?style=flat-square)
 
-*Pandas, Matplotlib e NumPy aparecem em outros projetos de análise de dados; não são necessariamente componentes do relatório Power BI.*
+**Ambientes**
 
-### 🛡️ Governança de Dados e Inteligência Artificial
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-**Projeto:** [Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank).
+**Projeto relacionado:** [Tradução NL para Nile](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
 
-#### Governança e gestão de dados
+*As bibliotecas de PLN também aparecem no repositório de Processamento de Linguagem Natural. Não são apresentadas como prova de agentes autônomos implementados.*
 
-![DAMA-DMBOK](https://img.shields.io/badge/DAMA--DMBOK-5B3A8A?style=flat-square)
-![Gartner](https://img.shields.io/badge/Gartner-596579?style=flat-square)
+### 🛡️ Governança de Dados e IA
 
-#### Normas e referenciais de IA
+**Governança e gestão de dados**
 
-![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-17324D?style=flat-square)
-![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC_42001-234E70?style=flat-square)
+![DAMA](https://img.shields.io/badge/DAMA--DMBOK-5B3A8A?style=flat-square) ![Gartner](https://img.shields.io/badge/Gartner-596579?style=flat-square)
 
-#### Segurança da informação e privacidade
+**Normas e referenciais de IA**
 
-![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-234E70?style=flat-square)
-![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
+![NIST](https://img.shields.io/badge/NIST_AI_RMF-17324D?style=flat-square) ![42001](https://img.shields.io/badge/ISO%2FIEC_42001-234E70?style=flat-square)
 
-**Nota:** DAMA-DMBOK e NIST AI RMF são referenciais; ISO/IEC 42001 e ISO/IEC 27001 são normas; LGPD é legislação; Gartner é uma empresa de pesquisa e análise. A presença aqui indica estudo ou referência técnica, não certificação pessoal.
+**Segurança e privacidade**
 
-### 💻 Desenvolvimento de Software
+![27001](https://img.shields.io/badge/ISO%2FIEC_27001-234E70?style=flat-square) ![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
 
-**Projetos:** [Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart) e [Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart).
+**Projeto:** [Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)
 
-#### Linguagens
+*DAMA-DMBOK e NIST AI RMF são referenciais; ISO/IEC 42001 e ISO/IEC 27001 são normas; LGPD é legislação; Gartner é uma empresa de pesquisa e análise. Os selos não indicam certificações profissionais.*
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 💻 Desenvolvimento Backend
 
-#### SDKs e frameworks
+**Linguagens**
 
-![Dart SDK](https://img.shields.io/badge/Dart_SDK-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-#### Testes
+**Ferramentas e versionamento**
 
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-#### Versionamento e colaboração
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
-
-#### Métodos ágeis
+**Método ágil**
 
 ![Scrum](https://img.shields.io/badge/Scrum-0F766E?style=flat-square)
 
-*Os projetos Dart publicados são aplicações de terminal. Flutter, Java e JavaScript constam como conhecimentos ou estudos, não como tecnologias implementadas nesses dois repositórios.*
+*Java e JavaScript constam como conhecimentos ou estudos. Não há um projeto backend Java ou JavaScript entre os oito repositórios listados.*
 
-### ☁️ Engenharia de Dados, ferramentas complementares
+#### 📊 Business Intelligence e análise de dados
 
-Estas tecnologias aparecem em **formação complementar**, mas não constituem uma área de projetos independente neste portfólio.
+**Plataformas e ferramentas**
 
-#### Plataformas e processamento distribuído
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
+**Linguagens e bibliotecas de apoio**
 
-*Estudadas em formação introdutória. A seção não representa um projeto publicado de Engenharia de Dados.*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**Projeto:** [Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)
+
+*As bibliotecas de análise também aparecem nos projetos de Machine Learning; não são necessariamente utilizadas no dashboard Power BI.*
 
 ---
 
