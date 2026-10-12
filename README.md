@@ -24,17 +24,6 @@ Meu portfólio reúne **Inteligência Artificial (IA), Machine Learning, Process
 
 > **Como ler este perfil:** as seções de projetos mostram entregas publicadas. A matriz de competências apresenta linguagens, ferramentas, plataformas e referenciais que estudo ou utilizo, sem implicar certificações profissionais nem domínio avançado de todos os itens.
 
-## 📌 Repositórios publicados
-
-**7 projetos** nas áreas de pesquisa em IA, Machine Learning, governança e desenvolvimento com Dart. Selecione um projeto para conhecer sua implementação e documentação.
-
-| Inteligência Artificial e pesquisa | Governança e desenvolvimento |
-| :--- | :--- |
-| [Tradução NL → Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto) | [Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank) |
-| [Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural) | [Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart) |
-| [Comparação entre RNN e CNN](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist) | [Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart) |
-| [Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero) | |
-
 ---
 
 ## 🔬 Pesquisa em destaque
