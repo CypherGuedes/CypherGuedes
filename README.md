@@ -31,36 +31,38 @@ Oito repositórios organizados por especialidade, com acesso direto ao código e
 
 ### 🔬 Pesquisa em IA e LLMs
 
-| Projeto | Escopo |
-| :--- | :--- |
-| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Tradução de linguagem natural para uma DSL, representação intermediária, aprendizado em contexto, validação e autocorreção. |
+| Projeto | Escopo | Tecnologias e recursos |
+| :--- | :--- | :--- |
+| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Tradução de linguagem natural para uma DSL, representação intermediária, aprendizado em contexto, validação e autocorreção. | **Python**, Jupyter Notebook, **LLMs**, ICL, IR, gramáticas **BNF/EBNF**, lexer, parser, **JSON**, CSV, avaliação sintática e semântica. |
 
 ### 🧠 Inteligência Artificial, Machine Learning e Deep Learning
 
-| Projeto | Escopo |
-| :--- | :--- |
-| **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. |
-| **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Código para treinamento e comparação de redes recorrentes e convolucionais; resultados dependem de executar os experimentos. |
-| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária em Python e NumPy, treinamento supervisionado e testes. |
+| Projeto | Escopo | Tecnologias e recursos |
+| :--- | :--- | :--- |
+| **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. | **Python**, NumPy, Pandas, scikit-learn, **NLTK**, tiktoken, **PyTorch**, TensorFlow, Hugging Face Transformers, Datasets, Accelerate, Matplotlib, UMAP, JupyterLab e pytest. |
+| **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Código para treinamento e comparação de redes recorrentes e convolucionais; resultados dependem de executar os experimentos. | **Python**, **TensorFlow/Keras**, NumPy, Matplotlib, scikit-learn, **Fashion-MNIST**, RNN e CNN. |
+| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária em Python e NumPy, treinamento supervisionado e testes. | **Python**, **NumPy**, Matplotlib, Jupyter Notebook, Perceptron, classificação binária e treinamento supervisionado. |
 
 ### 📊 Business Intelligence e Análise de Dados
 
 | Projeto | Escopo | Tecnologias e recursos |
 | :--- | :--- | :--- |
-| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de condição rodoviária com ICM, evolução contratual, distribuição por classificação e mapa de trechos críticos. Utiliza dados fictícios. | Power BI, Excel, CSV, Python, JSON e análise geográfica. |
+| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de condição rodoviária com ICM, evolução contratual, distribuição por classificação e mapa de trechos críticos. Utiliza dados fictícios. | **Power BI**, Excel, **CSV**, **JSON**, Python (script de auditoria), dashboard interativo, indicadores ICM e análise geográfica. |
 
 ### 🛡️ Governança de IA e Dados
 
-| Projeto | Escopo |
-| :--- | :--- |
-| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. |
+| Projeto | Escopo | Tecnologias e recursos |
+| :--- | :--- | :--- |
+| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | **Markdown**, **CSV**, **Mermaid**, matrizes de riscos, plano de ação, ontologia de crédito, avaliação de maturidade, **DAMA-DMBOK** e governança de IA. |
 
 ### 💻 Desenvolvimento com Dart
 
-| Projeto | Escopo |
-| :--- | :--- |
-| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Entrada e saída de dados, manipulação de strings e interação no terminal. |
-| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Exercício de construção de uma calculadora para terminal com Dart. |
+| Projeto | Escopo | Tecnologias e recursos |
+| :--- | :--- | :--- |
+| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Entrada e saída de dados, manipulação de strings e interação no terminal. | **Dart**, Dart SDK, `dart:io`, `stdin`, interpolação de strings, terminal e regras de análise (`lints`). |
+| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Exercício de construção de uma calculadora para terminal com Dart. | **Dart**, Dart SDK, operações aritméticas, entrada e saída no terminal, pacote **test** e regras de análise (`lints`). |
+
+*As tecnologias e os recursos refletem os arquivos dos repositórios enviados. Dependências declaradas não significam necessariamente utilização em produção. Flutter não foi atribuído aos dois projetos de terminal, pois são aplicações Dart de linha de comando.*
 
 ## 🔬 Pesquisa em destaque
 
