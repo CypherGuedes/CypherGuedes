@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%" alt="Banner de Thiago Guedes, mestre em Informática pela Universidade de Brasília, com identidade visual tecnológica inspirada na Aionics" />
 
-### Inteligência Artificial • Pesquisa em LLMs • Governança de IA e Dados • Business Intelligence • Desenvolvimento de Software
+### Inteligência Artificial • LLMs • Governança de IA e Dados • Business Intelligence • Desenvolvimento de Software
 
 **Mestre em Informática pela Universidade de Brasília (UnB)**
 
@@ -11,7 +11,7 @@
 [![Pesquisa](https://img.shields.io/badge/Pesquisa-LLMs_e_DSLs-127C89?style=for-the-badge)](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
 [![Formação](https://img.shields.io/badge/Formação-Cursos_e_Certificados-6543A6?style=for-the-badge)](./docs/FORMACAO-COMPLEMENTAR.md)
 
-**[Projetos](#-portfólio-de-projetos) · [BI e Dados](#-business-intelligence-e-análise-de-dados) · [Pesquisa](#-pesquisa-em-destaque) · [Competências](#-competências-técnicas-e-referenciais) · [Formação](#-formação-complementar) · [Contato](#-contato)**
+**[Projetos](#-portfólio-de-projetos) · [Pesquisa](#-pesquisa-em-destaque) · [Competências](#-competências-técnicas-e-referenciais) · [Formação](#-formação-complementar) · [Contato](#-contato)**
 
 </div>
 
@@ -27,7 +27,7 @@ Meu portfólio conecta **pesquisa aplicada em Inteligência Artificial**, **Busi
 
 ## 📌 Portfólio de projetos
 
-**8 projetos**, organizados em **5 áreas**, com acesso direto aos repositórios, códigos e documentação.
+Oito repositórios organizados por especialidade, com acesso direto ao código e à documentação.
 
 ### 🔬 Pesquisa em IA e LLMs
 
@@ -45,11 +45,9 @@ Meu portfólio conecta **pesquisa aplicada em Inteligência Artificial**, **Busi
 
 ### 📊 Business Intelligence e Análise de Dados
 
-| Projeto | Tecnologias | Escopo |
+| Projeto | Escopo | Tecnologias e recursos |
 | :--- | :--- | :--- |
-| **[Análise da Manutenção Rodoviária](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Power BI, Power Query, DAX e Excel | Dashboard de acompanhamento de contratos rodoviários, com Índice de Condição da Manutenção (ICM), evolução dos indicadores, classificação dos segmentos e mapa de trechos críticos. |
-
-**Destaques do projeto:** filtros por contrato e período, comparação entre medições, distribuição da condição dos trechos e análise geográfica. O repositório reúne relatório Power BI, bases e documentação técnica.
+| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de condição rodoviária com ICM, evolução contratual, distribuição por classificação e mapa de trechos críticos. Utiliza dados fictícios. | Power BI, Excel, CSV, Python, JSON e análise geográfica. |
 
 ### 🛡️ Governança de IA e Dados
 
@@ -120,12 +118,25 @@ As categorias abaixo diferenciam **linguagens**, **bibliotecas**, **plataformas*
 ### 📊 Business Intelligence, análise e visualização de dados
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-334155?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Dashboards](https://img.shields.io/badge/Dashboards-0E7490?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![CSV](https://img.shields.io/badge/CSV-475569?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-334155?style=flat-square&logo=json&logoColor=white)
 
-**Aplicação no portfólio:** preparação e organização de bases, criação de relatórios interativos, indicadores de desempenho, segmentação de dados e visualização geográfica de trechos rodoviários. DAX e Power Query são tecnologias associadas ao projeto Power BI; consulte o repositório para verificar os artefatos e transformações disponibilizados.
+**Aplicações demonstradas:** dashboard no Power BI, acompanhamento de indicadores (ICM), comparação entre contratos, segmentação por classes, mapas de criticidade, tratamento e auditoria de dados com Python. **DAX e Power Query** são recursos do ecossistema Power BI, mas o material fornecido não foi suficiente para verificar medidas ou transformações específicas dessas tecnologias.
+
+### 🧠 Bibliotecas de PLN e experimentação
+
+![NLTK](https://img.shields.io/badge/NLTK-276DC3?style=flat-square)
+![tiktoken](https://img.shields.io/badge/tiktoken-334155?style=flat-square)
+![Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Datasets](https://img.shields.io/badge/HF_Datasets-FFB000?style=flat-square)
+![Accelerate](https://img.shields.io/badge/Accelerate-4F46E5?style=flat-square)
+![UMAP](https://img.shields.io/badge/UMAP-0F766E?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+**Contexto:** dependências declaradas no projeto de Processamento de Linguagem Natural, que reúne tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. Dependência declarada não significa necessariamente uso em todos os experimentos.
 
 ### ☁️ Plataformas, engenharia de dados e colaboração
 
@@ -138,6 +149,7 @@ As categorias abaixo diferenciam **linguagens**, **bibliotecas**, **plataformas*
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Áreas:** experimentação com notebooks, versionamento, desenvolvimento mobile, DataFrames, tratamento, enriquecimento e transformação de dados. **Apache Spark, PySpark e Databricks** foram estudados no curso *Databricks: Transformação de Dados com PySpark* (Alura, 8h), em nível introdutório.
 
@@ -209,7 +221,7 @@ Este perfil acompanha a progressão dos estudos e dos projetos. Novas tecnologia
 2. **Nova biblioteca, framework ou plataforma:** acrescentar na categoria correspondente e registrar o contexto de utilização.
 3. **Novo referencial ou curso de governança:** indicar se é estudo, experiência aplicada ou certificação obtida, sem confundir essas categorias.
 4. **Novo curso concluído:** adicionar uma linha no arquivo `docs/FORMACAO-COMPLEMENTAR.md`, incluindo título, instituição e certificado.
-5. **Novo repositório:** inserir o link na tabela temática de projetos.
+5. **Novo repositório:** inserir o link na tabela temática de projetos e atualizar a contagem de repositórios.
 
 </details>
 
