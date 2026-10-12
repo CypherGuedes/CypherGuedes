@@ -10,7 +10,7 @@
 [![Projetos no GitHub](https://img.shields.io/badge/GitHub-Explorar_projetos-202C46?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CypherGuedes?tab=repositories)
 [![Pesquisa acadêmica](https://img.shields.io/badge/Pesquisa-LLMs_e_DSLs-127C89?style=for-the-badge)](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
 
-**[Sobre mim](#-sobre-mim) · [Projetos](#-projetos-e-pesquisa) · [Competências](#-competências-técnicas-e-referenciais) · [Evolução](#-aprendizado-contínuo) · [Contato](#-contato)**
+**[Sobre mim](#-sobre-mim) · [Projetos](#-projetos-publicados) · [Competências](#-competências-técnicas-e-referenciais) · [Evolução](#-aprendizado-contínuo) · [Contato](#-contato)**
 
 </div>
 
@@ -23,6 +23,19 @@ Sou **Thiago Guedes**, mestre em Informática pela **Universidade de Brasília (
 Meu portfólio reúne **Inteligência Artificial (IA), Machine Learning, Processamento de Linguagem Natural (PLN), Governança de IA e Dados e desenvolvimento de software**. Registro implementações, decisões técnicas, experimentos, limitações e documentação, valorizando a reprodutibilidade.
 
 > **Como ler este perfil:** as seções de projetos mostram entregas publicadas. A matriz de competências apresenta linguagens, ferramentas, plataformas e referenciais que estudo ou utilizo, sem implicar certificações profissionais nem domínio avançado de todos os itens.
+
+## 📌 Repositórios publicados
+
+**7 projetos** nas áreas de pesquisa em IA, Machine Learning, governança e desenvolvimento com Dart. Selecione um projeto para conhecer sua implementação e documentação.
+
+| Inteligência Artificial e pesquisa | Governança e desenvolvimento |
+| :--- | :--- |
+| [Tradução NL → Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto) | [Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank) |
+| [Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural) | [Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart) |
+| [Comparação entre RNN e CNN](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist) | [Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart) |
+| [Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero) | |
+
+---
 
 ## 🔬 Pesquisa em destaque
 
@@ -44,7 +57,13 @@ Investigação da tradução de instruções em linguagem natural para **Nile** 
 </td></tr>
 </table>
 
-## 🗂️ Projetos e pesquisa
+## 🗂️ Projetos publicados
+
+### 🔬 Pesquisa em IA e LLMs
+
+| Projeto | O que demonstra |
+| :--- | :--- |
+| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Pesquisa sobre tradução de linguagem natural para uma DSL, com representação intermediária, aprendizado em contexto, validação e avaliação experimental. |
 
 ### 🧠 Inteligência Artificial, Machine Learning e Deep Learning
 
@@ -65,8 +84,9 @@ Investigação da tradução de instruções em linguagem natural para **Nile** 
 | Projeto | O que demonstra |
 | :--- | :--- |
 | **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Lógica, entrada e saída de dados, manipulação de strings e interação no terminal. |
+| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Projeto de calculadora executada no terminal com Dart; consulte o repositório para os detalhes de implementação. |
 
-**Áreas em expansão:** Dart/Flutter, Java e backend. Novos repositórios serão incluídos conforme forem publicados.
+**Total listado: 7 repositórios.** As áreas Dart/Flutter, Java e backend continuarão recebendo novos projetos à medida que forem publicados.
 
 ---
 
@@ -177,4 +197,5 @@ Interessado em **pesquisa aplicada em IA, engenharia de software e governança d
 <sub>Pesquisa aplicada · Engenharia de software · Governança responsável · Aprendizado contínuo</sub>
 
 </div>
+
 
