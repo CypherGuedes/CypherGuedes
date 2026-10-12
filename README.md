@@ -1,109 +1,180 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Banner de Thiago Guedes: Inteligência Artificial, Pesquisa em LLMs e Governança de IA" width="100%" />
+<img src="./assets/banner.svg" alt="Thiago Guedes | Portfólio de tecnologia" width="100%" />
 
-<br />
+### Inteligência Artificial · Pesquisa em LLMs · Governança de IA · Engenharia de Software
 
-**Pesquisa aplicada, desenvolvimento de software e avaliação responsável de sistemas de IA.**
+**Mestre em Informática pela Universidade de Brasília (UnB)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoguedes1608/)
-[![Projetos](https://img.shields.io/badge/GitHub-Ver_repositórios-202C46?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CypherGuedes?tab=repositories)
-[![Pesquisa](https://img.shields.io/badge/Pesquisa-LLMs_e_DSLs-127C89?style=for-the-badge)](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
+[![Projetos no GitHub](https://img.shields.io/badge/GitHub-Explorar_projetos-202C46?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CypherGuedes?tab=repositories)
+[![Pesquisa acadêmica](https://img.shields.io/badge/Pesquisa-LLMs_e_DSLs-127C89?style=for-the-badge)](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
+
+**[Sobre mim](#-sobre-mim) · [Projetos](#-projetos-e-pesquisa) · [Competências](#-competências-técnicas-e-referenciais) · [Evolução](#-aprendizado-contínuo) · [Contato](#-contato)**
 
 </div>
 
+---
+
 ## 👋 Sobre mim
 
-Sou **Thiago Guedes**, mestre em Informática pela **Universidade de Brasília (UnB)**, com pesquisa voltada a modelos de linguagem compactos e tradução de linguagem natural para linguagens formais.
+Sou **Thiago Guedes**, mestre em Informática pela **Universidade de Brasília (UnB)**. Minha pesquisa envolve tradução de linguagem natural para linguagens formais com modelos de linguagem compactos, aprendizado em contexto, representações intermediárias e avaliação experimental.
 
-Meu portfólio reúne projetos de **Inteligência Artificial, Machine Learning, Processamento de Linguagem Natural, Governança de IA e desenvolvimento de software**. Procuro apresentar não apenas as implementações, mas também suas decisões técnicas, limitações, formas de avaliação e documentação.
+Meu portfólio reúne **Inteligência Artificial (IA), Machine Learning, Processamento de Linguagem Natural (PLN), Governança de IA e Dados e desenvolvimento de software**. Registro implementações, decisões técnicas, experimentos, limitações e documentação, valorizando a reprodutibilidade.
 
-- **Pesquisa:** modelos de linguagem, aprendizado em contexto (ICL), representações intermediárias e validação de saídas.
-- **Engenharia de IA:** prototipação, avaliação de modelos, pipelines e experimentos reproduzíveis.
-- **Governança:** riscos, qualidade de dados, controles e uso responsável de IA.
-- **Desenvolvimento:** Python, Dart/Flutter e fundamentos de engenharia de software.
+> **Como ler este perfil:** as seções de projetos mostram entregas publicadas. A matriz de competências apresenta linguagens, ferramentas, plataformas e referenciais que estudo ou utilizo, sem implicar certificações profissionais nem domínio avançado de todos os itens.
 
 ## 🔬 Pesquisa em destaque
 
 <table>
-<tr>
-<td width="100%">
+<tr><td>
 
 ### [Tradução de linguagem natural para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
 
-Pesquisa acadêmica sobre a tradução de instruções em linguagem natural para **Nile**, uma linguagem específica de domínio (DSL), com uso de um **modelo de linguagem compacto**.
+**Pesquisa de mestrado | IA generativa, PLN e linguagens específicas de domínio (DSLs)**
 
-**Questão investigada:** como estratégias baseadas em artefatos formais, aprendizado em contexto e autocorreção podem apoiar traduções válidas e semanticamente adequadas?
+Investigação da tradução de instruções em linguagem natural para **Nile** por meio de modelos de linguagem compactos, artefatos formais, aprendizado em contexto e mecanismos de validação e autocorreção.
 
-**Componentes estudados:** `NL → IR → Nile` · `LLMs compactos` · `ICL` · `DSL` · `Validação` · `Avaliação experimental`
+**Fluxo investigado:** `Linguagem natural → Representação intermediária (IR) → Nile`
 
-[**Explorar pesquisa, experimentos e documentação →**](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
+**Temas:** `LLMs` · `ICL` · `Prompt Engineering` · `DSL` · `Avaliação experimental` · `Validação`
 
-</td>
-</tr>
+[**Acessar repositório da pesquisa →**](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
+
+</td></tr>
 </table>
 
-## 🗂️ Projetos por área
+## 🗂️ Projetos e pesquisa
 
-### 🧠 Inteligência Artificial e Machine Learning
+### 🧠 Inteligência Artificial, Machine Learning e Deep Learning
 
-| Projeto | Foco técnico |
+| Projeto | O que demonstra |
 | :--- | :--- |
-| **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, bigramas, classificação de textos, DistilBERT e GPT-2. |
-| **[Comparação entre RNN e CNN](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Arquiteturas neurais com TensorFlow/Keras para classificação Fashion-MNIST; código preparado para avaliação. |
-| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Algoritmo de classificação binária com NumPy, exemplos didáticos e testes. |
+| **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, modelo de bigramas, classificação textual, DistilBERT e GPT-2. |
+| **[Comparação entre RNN e CNN](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Implementação de arquiteturas neurais com TensorFlow/Keras no Fashion-MNIST; avaliação a ser executada para gerar métricas. |
+| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária, treinamento supervisionado e testes com Python e NumPy. |
 
 ### 🛡️ Governança de IA e Dados
 
-| Projeto | Foco técnico |
+| Projeto | O que demonstra |
 | :--- | :--- |
 | **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso de maturidade, qualidade de dados, gestão de riscos, IA responsável e monitoramento. |
 
-### 📱 Desenvolvimento de Software
+### 💻 Desenvolvimento de Software
 
-| Projeto | Foco técnico |
+| Projeto | O que demonstra |
 | :--- | :--- |
-| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Entrada e saída de dados, strings e interação pelo terminal. |
+| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Lógica, entrada e saída de dados, manipulação de strings e interação no terminal. |
 
-**Próximas áreas do portfólio:** Flutter e desenvolvimento Java/Backend, à medida que os respectivos repositórios forem publicados.
+**Áreas em expansão:** Dart/Flutter, Java e backend. Novos repositórios serão incluídos conforme forem publicados.
 
-## 🧰 Tecnologias e ferramentas
+---
 
-<div align="center">
+## 🧰 Competências técnicas e referenciais
 
-**IA, dados e pesquisa**
+Esta seção é organizada **por natureza da competência** para facilitar a inclusão de novos estudos, cursos, ferramentas e projetos. Linguagens e frameworks não são confundidos com leis ou modelos de referência.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### ⚡ Visão geral por área
+
+| Área | Linguagens, ferramentas e competências |
+| :--- | :--- |
+| **Linguagens de programação** | Python · Java · Dart |
+| **IA e aprendizado de máquina** | LLMs · RAG · Machine Learning · Deep Learning · Transformers · PLN · Aprendizado em contexto (ICL) |
+| **Bibliotecas e frameworks de IA** | NumPy · scikit-learn · TensorFlow · Keras · PyTorch · Hugging Face Transformers |
+| **Plataformas de notebooks e experimentação** | Kaggle · Google Colab · Jupyter Notebook (`.ipynb`) |
+| **Desenvolvimento de aplicações** | Flutter · Git · GitHub |
+| **Governança de IA** | NIST AI RMF · ISO/IEC 42001 · Gestão de riscos · IA responsável |
+| **Governança de dados** | DAMA-DMBOK · Qualidade de dados · Gestão e documentação de dados |
+| **Privacidade e proteção de dados** | LGPD (Lei nº 13.709/2018) |
+| **Pesquisa e análise de mercado de tecnologia** | Gartner (pesquisa, análises de mercado e referenciais de avaliação) |
+
+### 🧑‍💻 Linguagens de programação
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🤖 Frameworks, bibliotecas e ferramentas de IA
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-334155?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
 
-**Desenvolvimento e versionamento**
+### ☁️ Plataformas de desenvolvimento e experimentação
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-</div>
+**Nota:** Kaggle e Google Colab são ambientes de execução/experimentação. Jupyter Notebook é o formato/ambiente de notebooks; um arquivo `.ipynb` pode ser criado ou executado nessas plataformas.
 
-## 🎯 O que você encontra neste perfil
+### 🏛️ Governança, dados, riscos e privacidade
 
-| Pesquisa e experimentos | Projetos práticos | Governança e documentação |
-| :--- | :--- | :--- |
-| Métodos, hipóteses e avaliação de modelos | Implementações e exercícios de programação | Análise de riscos, boas práticas e organização técnica |
+![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-17324D?style=flat-square)
+![ISO 42001](https://img.shields.io/badge/ISO%2FIEC_42001-234E70?style=flat-square)
+![DAMA-DMBOK](https://img.shields.io/badge/DAMA--DMBOK-5B3A8A?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
+![Gartner](https://img.shields.io/badge/Gartner-596579?style=flat-square)
 
-> **Sobre os resultados:** sempre que um projeto contém implementação ou experimento ainda não executado integralmente, isso é indicado em sua documentação. Não apresento métricas estimadas como resultados medidos.
+| Referência | Aplicação e contexto |
+| :--- | :--- |
+| **NIST AI RMF** | Estrutura de gerenciamento de riscos de sistemas de IA. |
+| **ISO/IEC 42001** | Norma para sistemas de gestão de inteligência artificial. |
+| **DAMA-DMBOK** | Corpo de conhecimento para gestão e governança de dados, incluindo qualidade, metadados e arquitetura de dados. |
+| **LGPD** | Lei brasileira de proteção de dados pessoais e princípios aplicáveis ao tratamento de dados. |
+| **Gartner** | Fonte de pesquisa e análise de mercado de tecnologia, incluindo modelos de avaliação e tendências; não é linguagem nem framework de programação. |
+
+> **Transparência:** a presença de leis, normas, institutos e referenciais nesta seção indica temas estudados e utilizados como referência. Não representa certificação, auditoria ou endosso dessas organizações.
+
+---
+
+## 📚 Aprendizado contínuo
+
+Este portfólio é atualizado conforme avanço nos estudos e publico novos projetos. A organização abaixo permite acrescentar conhecimentos **sem apagar o histórico**.
+
+| Tipo de aprendizado | Como registrar neste perfil |
+| :--- | :--- |
+| **Nova linguagem** | Adicionar à tabela de linguagens e ao grupo de badges. Vincular um repositório demonstrativo quando existir. |
+| **Novo framework ou biblioteca** | Incluir em frameworks e ferramentas, indicando a área de aplicação. |
+| **Nova plataforma (ex.: Colab ou Kaggle)** | Incluir em plataformas e documentar em qual projeto foi utilizada. |
+| **Novo curso** | Registrar conteúdo estudado e, quando houver, o projeto prático correspondente. |
+| **Nova norma ou referência de governança** | Adicionar à tabela de referenciais, com breve explicação de seu objetivo. |
+| **Novo projeto** | Criar repositório próprio e incluí-lo na categoria correspondente acima. |
+
+<details>
+<summary><strong>📌 Modelo para futuras inclusões (abrir)</strong></summary>
+
+Para adicionar uma competência, copie uma linha da tabela **Visão geral por área** e acrescente o nome na categoria correta. Para adicionar um novo selo, copie o padrão:
+
+```md
+![Nome](https://img.shields.io/badge/Nome-2563EB?style=flat-square)
+```
+
+Para adicionar um projeto:
+
+```md
+| **[Nome do projeto](https://github.com/CypherGuedes/nome-do-repositorio)** | Objetivo, ferramentas utilizadas e resultado verificável. |
+```
+
+Prefira apresentar ferramentas utilizadas e resultados verificáveis; cursos concluídos podem ganhar uma seção própria com instituição e link do certificado, se você desejar publicá-los.
+
+</details>
 
 ## 📬 Contato
 
-Se quiser conversar sobre **IA aplicada, pesquisa, governança ou desenvolvimento de software**, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/thiagoguedes1608/) ou explorar os [repositórios deste perfil](https://github.com/CypherGuedes?tab=repositories).
+Interessado em **pesquisa aplicada em IA, engenharia de software e governança de IA e dados**? Vamos conversar pelo [LinkedIn](https://www.linkedin.com/in/thiagoguedes1608/) ou conhecer os [repositórios](https://github.com/CypherGuedes?tab=repositories).
 
 <div align="center">
 
-<sub>Documentação clara · Experimentos verificáveis · Desenvolvimento contínuo</sub>
+<sub>Pesquisa aplicada · Engenharia de software · Governança responsável · Aprendizado contínuo</sub>
 
 </div>
+
