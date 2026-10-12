@@ -11,7 +11,7 @@
 [![Pesquisa](https://img.shields.io/badge/Pesquisa-LLMs_e_DSLs-127C89?style=for-the-badge)](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)
 [![Formação](https://img.shields.io/badge/Formação-Cursos_e_Certificados-6543A6?style=for-the-badge)](./docs/FORMACAO-COMPLEMENTAR.md)
 
-**[Projetos](#-portfólio-de-projetos) · [Pesquisa](#-pesquisa-em-destaque) · [Competências](#-competências-técnicas-e-referenciais) · [Formação](#-formação-complementar) · [Contato](#-contato)**
+**[Projetos](#-portfólio-de-projetos) · [Pesquisa](#-pesquisa-em-destaque) · [Tecnologias](#-tecnologias-e-ferramentas) · [Governança](#-governança-normas-e-referenciais) · [Formação](#-formação-complementar) · [Contato](#-contato)**
 
 </div>
 
@@ -53,7 +53,7 @@ Oito repositórios organizados por especialidade, com acesso direto ao código e
 
 | Projeto | Escopo | Tecnologias e ferramentas |
 | :--- | :--- | :--- |
-| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | *Estudo documental, sem framework de software ou linguagem específica a destacar*. |
+| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | **DAMA-DMBOK**, **NIST AI RMF**, **ISO/IEC 42001**, **LGPD** como referenciais de estudo; não são frameworks de software. |
 
 ### 💻 Desenvolvimento com Dart
 
@@ -80,7 +80,7 @@ Pesquisa de mestrado sobre a tradução de instruções em linguagem natural par
 
 ## 🧰 Tecnologias e ferramentas
 
-Linguagens, bibliotecas, frameworks, plataformas, ambientes de desenvolvimento e métodos de trabalho. Os referenciais de governança permanecem na descrição dos projetos e na formação complementar.
+Linguagens, bibliotecas, frameworks, plataformas, ambientes de desenvolvimento e métodos de trabalho. Os referenciais de governança estão organizados em uma seção própria, separada das tecnologias.
 
 ### 🧑‍💻 Linguagens de programação
 
@@ -140,6 +140,38 @@ Linguagens, bibliotecas, frameworks, plataformas, ambientes de desenvolvimento e
 
 ---
 
+## 🛡️ Governança, normas e referenciais
+
+Referenciais de gestão, segurança, privacidade e governança estudados e considerados no desenvolvimento profissional. Esta seção é independente das linguagens e ferramentas de programação.
+
+### 🗂️ Governança e gestão de dados
+
+![DAMA-DMBOK](https://img.shields.io/badge/DAMA--DMBOK-5B3A8A?style=flat-square)
+![Gartner](https://img.shields.io/badge/Gartner-596579?style=flat-square)
+
+- **DAMA-DMBOK:** boas práticas para gestão e governança de dados, incluindo qualidade, metadados e arquitetura de dados.
+- **Gartner:** referência de pesquisa e análise de mercado, incluindo modelos e tendências de governança e tecnologia. Não é uma norma técnica.
+
+### 🤖 Governança e gestão de riscos de IA
+
+![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-17324D?style=flat-square)
+![ISO IEC 42001](https://img.shields.io/badge/ISO%2FIEC_42001-234E70?style=flat-square)
+
+- **NIST AI RMF:** estrutura para identificação, avaliação e gestão de riscos relacionados à IA.
+- **ISO/IEC 42001:** norma de sistema de gestão de inteligência artificial.
+
+### 🔐 Segurança da informação e privacidade
+
+![ISO IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-24476A?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
+
+- **ISO/IEC 27001:** requisitos para um sistema de gestão de segurança da informação.
+- **LGPD (Lei nº 13.709/2018):** legislação brasileira de proteção de dados pessoais.
+
+> **Nota:** os selos indicam referenciais de conhecimento e estudo, não certificações pessoais, acreditação, conformidade auditada ou vínculo institucional com os organismos citados.
+
+---
+
 ## 🎓 Formação complementar
 
 Os certificados apresentados documentam conteúdos estudados, com destaque para duas formações estruturadas na Alura:
@@ -164,7 +196,7 @@ Este perfil acompanha a progressão dos estudos e dos projetos. Novas tecnologia
 
 1. **Nova linguagem:** adicionar um selo na seção de linguagens e, se houver, um projeto que demonstre seu uso.
 2. **Nova biblioteca, framework ou plataforma:** acrescentar na categoria correspondente e registrar o contexto de utilização.
-3. **Novo referencial ou curso de governança:** indicar se é estudo, experiência aplicada ou certificação obtida, sem confundir essas categorias.
+3. **Novo referencial de governança:** incluir na seção de normas e referenciais, distinguindo estudo, aplicação e certificação.
 4. **Novo curso concluído:** adicionar uma linha no arquivo `docs/FORMACAO-COMPLEMENTAR.md`, incluindo título, instituição e certificado.
 5. **Novo repositório:** inserir o link na tabela temática de projetos e atualizar a contagem de repositórios.
 
