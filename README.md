@@ -31,38 +31,38 @@ Oito repositórios organizados por especialidade, com acesso direto ao código e
 
 ### 🔬 Pesquisa em IA e LLMs
 
-| Projeto | Escopo | Tecnologias e competências |
+| Projeto | Escopo | Tecnologias e ferramentas |
 | :--- | :--- | :--- |
-| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Tradução de linguagem natural para uma DSL, representação intermediária, aprendizado em contexto, validação e autocorreção. | **Python**, **LLMs**, **Processamento de Linguagem Natural (PLN)**, **Prompt Engineering**, **In-Context Learning (ICL)**, **Jupyter Notebook**. |
+| **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Tradução de linguagem natural para uma DSL, representação intermediária, aprendizado em contexto, validação e autocorreção. | **Python**, **Jupyter Notebook**. |
 
 ### 🧠 Inteligência Artificial, Machine Learning e Deep Learning
 
-| Projeto | Escopo | Tecnologias e competências |
+| Projeto | Escopo | Tecnologias e ferramentas |
 | :--- | :--- | :--- |
 | **[Processamento de Linguagem Natural](https://github.com/CypherGuedes/processamento-linguagem-natural)** | Tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. | **Python**, **PyTorch**, **TensorFlow**, **Hugging Face Transformers**, **scikit-learn**, **NLTK**, **Pandas**, **NumPy**, **JupyterLab**. |
-| **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Código para treinamento e comparação de redes recorrentes e convolucionais; resultados dependem de executar os experimentos. | **Python**, **TensorFlow**, **Keras**, **scikit-learn**, **NumPy**, **Matplotlib**, **Deep Learning**. |
-| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária em Python e NumPy, treinamento supervisionado e testes. | **Python**, **NumPy**, **Matplotlib**, **Jupyter Notebook**, **Machine Learning**. |
+| **[Comparação entre RNN e CNN no Fashion-MNIST](https://github.com/CypherGuedes/comparacao-rnn-cnn-fashion-mnist)** | Código para treinamento e comparação de redes recorrentes e convolucionais; resultados dependem de executar os experimentos. | **Python**, **TensorFlow**, **Keras**, **scikit-learn**, **NumPy**, **Matplotlib**. |
+| **[Perceptron do Zero](https://github.com/CypherGuedes/perceptron-do-zero)** | Classificação binária em Python e NumPy, treinamento supervisionado e testes. | **Python**, **NumPy**, **Matplotlib**, **Jupyter Notebook**. |
 
 ### 📊 Business Intelligence e Análise de Dados
 
-| Projeto | Escopo | Tecnologias e competências |
+| Projeto | Escopo | Tecnologias e ferramentas |
 | :--- | :--- | :--- |
-| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de condição rodoviária com ICM, evolução contratual, distribuição por classificação e mapa de trechos críticos. Utiliza dados fictícios. | **Power BI**, **Microsoft Excel**, **Python**, **Business Intelligence (BI)**, **Visualização de Dados**, **Análise Geográfica**. |
+| **[Análise da Manutenção Rodoviária em Power BI](https://github.com/CypherGuedes/analise-manutencao-rodoviaria-powerbi)** | Dashboard de condição rodoviária com ICM, evolução contratual, distribuição por classificação e mapa de trechos críticos. Utiliza dados fictícios. | **Power BI**, **Microsoft Excel**, **Python**. |
 
 ### 🛡️ Governança de IA e Dados
 
-| Projeto | Escopo | Tecnologias e competências |
+| Projeto | Escopo | Tecnologias e ferramentas |
 | :--- | :--- | :--- |
-| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | **Governança de Dados**, **Governança de IA**, **DAMA-DMBOK**, **Gestão de Riscos**, **Qualidade de Dados**, **IA Responsável**. |
+| **[Governança de Dados e IA: Bytebank](https://github.com/CypherGuedes/governanca-dados-ia-bytebank)** | Estudo de caso sobre maturidade, qualidade de dados, riscos, IA responsável e monitoramento. | *Estudo documental, sem framework de software ou linguagem específica a destacar*. |
 
 ### 💻 Desenvolvimento com Dart
 
-| Projeto | Escopo | Tecnologias e competências |
+| Projeto | Escopo | Tecnologias e ferramentas |
 | :--- | :--- | :--- |
-| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Entrada e saída de dados, manipulação de strings e interação no terminal. | **Dart**, **Dart SDK**, **Programação de Aplicações de Linha de Comando (CLI)**. |
-| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Exercício de construção de uma calculadora para terminal com Dart. | **Dart**, **Dart SDK**, **Testes Automatizados**, **Programação de Aplicações de Linha de Comando (CLI)**. |
+| **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Entrada e saída de dados, manipulação de strings e interação no terminal. | **Dart**, **Dart SDK**. |
+| **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Exercício de construção de uma calculadora para terminal com Dart. | **Dart**, **Dart SDK**. |
 
-*As tecnologias e competências foram selecionadas por relevância profissional. A presença de uma biblioteca como dependência não comprova experiência em produção. Os projetos Dart apresentados são aplicações de terminal, não projetos Flutter.*
+*As colunas listam apenas linguagens, ferramentas, bibliotecas, frameworks e ambientes identificados. A presença de uma biblioteca como dependência não comprova experiência em produção. Os projetos Dart apresentados são aplicações de terminal, não projetos Flutter.*
 
 ## 🔬 Pesquisa em destaque
 
@@ -78,33 +78,20 @@ Pesquisa de mestrado sobre a tradução de instruções em linguagem natural par
 
 ---
 
-## 🧰 Competências técnicas e referenciais
+## 🧰 Tecnologias e ferramentas
 
-As categorias abaixo diferenciam **linguagens**, **bibliotecas**, **plataformas**, **temas estudados**, **métodos de gestão** e **referenciais normativos**.
+Linguagens, bibliotecas, frameworks, plataformas, ambientes de desenvolvimento e métodos de trabalho. Os referenciais de governança permanecem na descrição dos projetos e na formação complementar.
 
-### 🧑‍💻 Linguagens e fundamentos de desenvolvimento
+### 🧑‍💻 Linguagens de programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Áreas:** lógica de programação, pensamento computacional, estruturas condicionais, repetição, desenvolvimento de software e programação orientada a objetos.
+*JavaScript consta na formação introdutória; o nível de experiência varia entre as linguagens.*
 
-*JavaScript consta como formação introdutória em lógica de programação; Java e Dart fazem parte das linguagens de interesse e desenvolvimento do portfólio.*
-
-### 🤖 Inteligência Artificial e Modelos de Linguagem
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-164E63?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-4F46E5?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-334155?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-7C3AED?style=flat-square)
-![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-0369A1?style=flat-square)
-
-**Áreas:** Processamento de Linguagem Natural (PLN), aprendizado em contexto, engenharia de prompts, classificação de textos, geração de texto, avaliação de modelos e introdução a agentes de IA para negócios.
-
-### 🧪 Bibliotecas, frameworks e explicabilidade
+### 🧪 Bibliotecas e frameworks
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -112,23 +99,13 @@ As categorias abaixo diferenciam **linguagens**, **bibliotecas**, **plataformas*
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![SHAP](https://img.shields.io/badge/SHAP-2563EB?style=flat-square)
-![LIME](https://img.shields.io/badge/LIME-0D9488?style=flat-square)
-
-**Áreas:** aprendizado supervisionado, redes neurais, modelos Transformers, interpretabilidade e explicabilidade de IA (XAI), vieses e transparência. *SHAP e LIME são tópicos estudados em curso de explicabilidade, não reivindicação de implementação em produção.*
-
 ### 📊 Business Intelligence, análise e visualização de dados
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![CSV](https://img.shields.io/badge/CSV-475569?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-334155?style=flat-square&logo=json&logoColor=white)
-
-**Aplicações demonstradas:** dashboard no Power BI, acompanhamento de indicadores (ICM), comparação entre contratos, segmentação por classes, mapas de criticidade, tratamento e auditoria de dados com Python. **DAX e Power Query** são recursos do ecossistema Power BI, mas o material fornecido não foi suficiente para verificar medidas ou transformações específicas dessas tecnologias.
-
-### 🧠 Bibliotecas de PLN e experimentação
+### 🧠 Bibliotecas de PLN e testes
 
 ![NLTK](https://img.shields.io/badge/NLTK-276DC3?style=flat-square)
 ![tiktoken](https://img.shields.io/badge/tiktoken-334155?style=flat-square)
@@ -140,7 +117,7 @@ As categorias abaixo diferenciam **linguagens**, **bibliotecas**, **plataformas*
 
 **Contexto:** dependências declaradas no projeto de Processamento de Linguagem Natural, que reúne tokenização BPE, bigramas, classificação textual, DistilBERT e GPT-2. Dependência declarada não significa necessariamente uso em todos os experimentos.
 
-### ☁️ Plataformas, engenharia de dados e colaboração
+### ☁️ Ambientes, plataformas e ferramentas
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
@@ -157,43 +134,9 @@ As categorias abaixo diferenciam **linguagens**, **bibliotecas**, **plataformas*
 
 *Jupyter Notebook identifica o formato `.ipynb`; Kaggle e Google Colab são plataformas nas quais notebooks podem ser utilizados.*
 
-### 🛡️ Governança de IA, ética e gestão de riscos
-
-![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-17324D?style=flat-square)
-![ISO 42001](https://img.shields.io/badge/ISO%2FIEC_42001-234E70?style=flat-square)
-![IA Responsável](https://img.shields.io/badge/IA_Responsável-0F766E?style=flat-square)
-![XAI](https://img.shields.io/badge/Explicabilidade_XAI-375A7F?style=flat-square)
-
-**Tópicos:** ciclo de vida de sistemas de IA, identificação e mitigação de riscos, governança organizacional, supervisão humana, monitoramento de modelos, vieses algorítmicos, ética, transparência e controles.
-
-**Referenciais estudados:** NIST AI RMF e ISO/IEC 42001. A menção indica conhecimento temático, não certificação oficial ou auditoria.
-
-### 🗂️ Governança de Dados, ontologias e privacidade
-
-![DAMA-DMBOK](https://img.shields.io/badge/DAMA--DMBOK-5B3A8A?style=flat-square)
-![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
-![Ontologias](https://img.shields.io/badge/Ontologias-6D28D9?style=flat-square)
-![Gartner](https://img.shields.io/badge/Gartner-596579?style=flat-square)
-
-**Tópicos:** qualidade de dados, metadados, catálogos, linhagem, produtos de dados, modelos de maturidade, roadmap de governança, ontologias, entidades e relacionamentos, interoperabilidade semântica, governança em nuvem e privacidade.
-
-| Referência | Natureza |
-| :--- | :--- |
-| **DAMA-DMBOK** | Corpo de conhecimento e boas práticas de gestão de dados. |
-| **LGPD** | Lei brasileira de proteção de dados pessoais (Lei nº 13.709/2018). |
-| **Gartner** | Empresa de pesquisa e análise de mercado de tecnologia, usada como fonte de referência e tendências. |
-| **NIST AI RMF** | Estrutura de gerenciamento de riscos de IA. |
-| **ISO/IEC 42001** | Norma sobre sistema de gestão de inteligência artificial. |
-
-### 📋 Métodos ágeis, liderança e comunicação
+### 📋 Métodos de desenvolvimento
 
 ![Scrum](https://img.shields.io/badge/Scrum-0F766E?style=flat-square)
-![PMI-ACP Estudos](https://img.shields.io/badge/Estudos_para_PMI--ACP-475569?style=flat-square)
-![Tech Leadership](https://img.shields.io/badge/Tech_Leadership-334155?style=flat-square)
-
-**Tópicos:** práticas de Scrum, backlog, histórias de usuário, eventos de planejamento e revisão, gestão de mudanças, liderança de equipes com IA, comunicação técnica e executiva e relacionamento com stakeholders.
-
-*Os cursos preparatórios sobre PMI-ACP não equivalem à credencial profissional PMI-ACP.*
 
 ---
 
@@ -236,4 +179,5 @@ Para conversar sobre **pesquisa aplicada em IA, Machine Learning, Business Intel
 <sub>Pesquisa aplicada · Desenvolvimento de software · Governança responsável · Aprendizado contínuo</sub>
 
 </div>
+
 
