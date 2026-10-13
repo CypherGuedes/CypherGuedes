@@ -120,11 +120,19 @@ Tecnologias e referenciais organizados por categoria para facilitar a consulta. 
 
 ![Scrum](https://img.shields.io/badge/Scrum-0F766E?style=flat-square)
 
-### 🛡️ Normas, legislação e referenciais de governança
+### 🛡️ Frameworks e referenciais de governança
 
-![DAMA-DMBOK](https://img.shields.io/badge/DAMA--DMBOK-5B3A8A?style=flat-square) ![Gartner](https://img.shields.io/badge/Gartner-596579?style=flat-square) ![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-17324D?style=flat-square) ![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC_42001-234E70?style=flat-square) ![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-234E70?style=flat-square) ![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
+![DAMA-DMBOK](https://img.shields.io/badge/DAMA--DMBOK-5B3A8A?style=flat-square) ![Gartner](https://img.shields.io/badge/Gartner-596579?style=flat-square) ![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-17324D?style=flat-square)
 
-> **Sobre o nível de experiência:** Python, Dart, ferramentas de IA e Power BI aparecem em projetos do portfólio. Flutter, Java, JavaScript, Databricks, Spark e PySpark incluem conhecimentos de formação complementar. Bibliotecas declaradas como dependências não significam uso em todos os experimentos. Normas e referenciais indicam estudo ou familiaridade, não certificação profissional. Gartner é uma empresa de pesquisa, não uma norma.
+### 📐 Normas técnicas
+
+![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC_42001-234E70?style=flat-square) ![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-234E70?style=flat-square)
+
+### 🔒 Legislação e proteção de dados
+
+![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
+
+> **Sobre o nível de experiência:** Python, Dart, ferramentas de IA e Power BI aparecem em projetos do portfólio. Flutter, Java, JavaScript, Databricks, Spark e PySpark incluem conhecimentos de formação complementar. Bibliotecas declaradas como dependências não significam uso em todos os experimentos. Normas e referenciais indicam estudo ou familiaridade, não certificação profissional. Gartner é uma empresa de pesquisa e consultoria, não um framework ou norma técnica.
 
 ---
 
@@ -167,5 +175,3 @@ Para conversar sobre **pesquisa aplicada em IA, Machine Learning, Business Intel
 <sub>Pesquisa aplicada · Desenvolvimento de software · Governança responsável · Aprendizado contínuo</sub>
 
 </div>
-
-
