@@ -36,8 +36,6 @@ Meu portfólio reúne projetos de **Engenharia de Machine Learning**, **LLMs**, 
 | **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Aplicação de terminal para entrada de dados e interação com o usuário. | **Dart**, lógica de programação e tratamento de entradas. |
 | **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Calculadora interativa executada no terminal. | **Dart**, organização de lógica de aplicação e tratamento de operações. |
 
-*Os projetos demonstram fundamentos em Dart. Flutter integra os estudos de desenvolvimento mobile, mas esses repositórios não são aplicativos Flutter.*
-
 ### 🧠 Engenharia de Machine Learning
 
 | Projeto | Escopo | Diferenciais técnicos |
@@ -51,8 +49,6 @@ Meu portfólio reúne projetos de **Engenharia de Machine Learning**, **LLMs**, 
 | Projeto relacionado | Escopo | Diferenciais técnicos |
 | :--- | :--- | :--- |
 | **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Pesquisa de tradução de linguagem natural para linguagem específica de domínio, com validação e autocorreção. | **Python, LLMs, Prompt Engineering, In-Context Learning (ICL)**, representação intermediária e avaliação sintática e semântica. |
-
-*O projeto demonstra engenharia e avaliação de LLMs. Não é apresentado como implementação comprovada de agentes autônomos.*
 
 ### 🛡️ Governança de Dados e IA
 
