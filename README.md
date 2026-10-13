@@ -36,6 +36,8 @@ Meu portfólio reúne projetos de **Engenharia de Machine Learning**, **LLMs**, 
 | **[Saudação Interativa em Dart](https://github.com/CypherGuedes/saudacao-interativa-dart)** | Aplicação de terminal para entrada de dados e interação com o usuário. | **Dart**, lógica de programação e tratamento de entradas. |
 | **[Calculadora de Terminal em Dart](https://github.com/CypherGuedes/calculadora-terminal-dart)** | Calculadora interativa executada no terminal. | **Dart**, organização de lógica de aplicação e tratamento de operações. |
 
+*Os projetos demonstram fundamentos em Dart. Flutter integra os estudos de desenvolvimento mobile, mas esses repositórios não são aplicativos Flutter.*
+
 ### 🧠 Engenharia de Machine Learning
 
 | Projeto | Escopo | Diferenciais técnicos |
@@ -49,6 +51,8 @@ Meu portfólio reúne projetos de **Engenharia de Machine Learning**, **LLMs**, 
 | Projeto relacionado | Escopo | Diferenciais técnicos |
 | :--- | :--- | :--- |
 | **[Tradução NL para Nile com LLM compacto](https://github.com/CypherGuedes/traducao-nl-nile-llm-compacto)** | Pesquisa de tradução de linguagem natural para linguagem específica de domínio, com validação e autocorreção. | **Python, LLMs, Prompt Engineering, In-Context Learning (ICL)**, representação intermediária e avaliação sintática e semântica. |
+
+*O projeto demonstra engenharia e avaliação de LLMs. Não é apresentado como implementação comprovada de agentes autônomos.*
 
 ### 🛡️ Governança de Dados e IA
 
@@ -112,9 +116,21 @@ Tecnologias e referenciais organizados por categoria para facilitar a consulta. 
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 📋 Metodologias de desenvolvimento
+### 📋 Frameworks e referenciais de gestão de projetos
 
-![Scrum](https://img.shields.io/badge/Scrum-0F766E?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-0F766E?style=flat-square) ![PMBOK](https://img.shields.io/badge/PMBOK-345995?style=flat-square)
+
+### 📝 Documentação técnica e científica
+
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
+
+### 🗂️ Organização e produtividade
+
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-222222?style=flat-square&logo=notion&logoColor=white)
+
+### 🎨 Design gráfico e edição multimídia
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-333333?style=flat-square&logo=inkscape&logoColor=white) ![Filmora](https://img.shields.io/badge/Filmora-00ADEF?style=flat-square)
 
 ### 🛡️ Frameworks e referenciais de governança
 
@@ -127,6 +143,8 @@ Tecnologias e referenciais organizados por categoria para facilitar a consulta. 
 ### 🔒 Legislação e proteção de dados
 
 ![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
+
+> **Nota:** PMBOK é um guia de boas práticas em gestão de projetos; Scrum é um framework ágil. As ferramentas de documentação, organização e design representam competências complementares, sem serem atribuídas aos oito projetos técnicos acima.
 
 > **Sobre o nível de experiência:** Python, Dart, ferramentas de IA e Power BI aparecem em projetos do portfólio. Flutter, Java, JavaScript, Databricks, Spark e PySpark incluem conhecimentos de formação complementar. Bibliotecas declaradas como dependências não significam uso em todos os experimentos. Normas e referenciais indicam estudo ou familiaridade, não certificação profissional. Gartner é uma empresa de pesquisa e consultoria, não um framework ou norma técnica.
 
@@ -156,7 +174,7 @@ Este perfil acompanha a progressão dos estudos e dos projetos. Novas tecnologia
 
 1. **Nova linguagem:** adicionar um selo na seção de linguagens e, se houver, um projeto que demonstre seu uso.
 2. **Nova biblioteca, framework ou plataforma:** acrescentar na categoria correspondente e registrar o contexto de utilização.
-3. **Novo referencial de governança:** incluir na seção de normas e referenciais, distinguindo estudo, aplicação e certificação.
+3. **Novo referencial de governança ou gestão:** incluir na categoria correspondente, distinguindo estudo, aplicação e certificação.
 4. **Novo curso concluído:** adicionar uma linha no arquivo `docs/FORMACAO-COMPLEMENTAR.md`, incluindo título, instituição e certificado.
 5. **Novo repositório:** inserir o link na tabela temática de projetos e atualizar a contagem de repositórios.
 
@@ -171,3 +189,4 @@ Para conversar sobre **pesquisa aplicada em IA, Machine Learning, Business Intel
 <sub>Pesquisa aplicada · Desenvolvimento de software · Governança responsável · Aprendizado contínuo</sub>
 
 </div>
+
