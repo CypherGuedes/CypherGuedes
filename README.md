@@ -86,47 +86,37 @@ Pesquisa de mestrado sobre a tradução de instruções em linguagem natural par
 
 ## 🧰 Tecnologias, ferramentas e referenciais
 
-As competências estão agrupadas **por tipo de tecnologia**, sem repetição por área profissional. Os projetos acima demonstram aplicações específicas; algumas ferramentas abaixo também fazem parte de estudos e formação complementar.
+Tecnologias e referenciais organizados por categoria para facilitar a consulta. Incluem recursos demonstrados nos projetos e conhecimentos adquiridos em formação complementar, com diferentes níveis de experiência.
 
 ### 💻 Linguagens de programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-*Python e Dart aparecem em projetos publicados. Java e JavaScript integram os estudos, com JavaScript em nível introdutório.*
+### 🧠 Frameworks de IA e Machine Learning
 
-### 🧱 Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+### 📱 Frameworks de desenvolvimento
 
-*Flutter faz parte dos estudos de desenvolvimento mobile, mas não é utilizado nos dois projetos de terminal em Dart.*
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 📚 Bibliotecas
+### 📚 Bibliotecas de dados, IA e testes
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![NLTK](https://img.shields.io/badge/NLTK-276DC3?style=flat-square) ![Transformers](https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Datasets](https://img.shields.io/badge/Hugging_Face_Datasets-FFB000?style=flat-square) ![Accelerate](https://img.shields.io/badge/Accelerate-4F46E5?style=flat-square) ![tiktoken](https://img.shields.io/badge/tiktoken-334155?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-*Parte dessas bibliotecas consta nas dependências dos repositórios; isso não significa que todas tenham sido utilizadas em todos os experimentos.*
+### 🖥️ IDEs e ambientes de desenvolvimento
 
-### 🖥️ IDEs e editores
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### 🧪 Ambientes de desenvolvimento e experimentação
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-
-### ☁️ Plataformas e ferramentas
+### ☁️ Plataformas, processamento e versionamento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
 
-*Databricks, Apache Spark e PySpark constam em formação introdutória, não em um projeto dedicado publicado neste portfólio.*
-
-### 📊 Business Intelligence e análise de dados
+### 📊 Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Aplicação demonstrada:** dashboards, indicadores, análise contratual e visualização geográfica no projeto de manutenção rodoviária.
-
-### 📋 Métodos de desenvolvimento
+### 📋 Metodologias de desenvolvimento
 
 ![Scrum](https://img.shields.io/badge/Scrum-0F766E?style=flat-square)
 
@@ -134,7 +124,7 @@ As competências estão agrupadas **por tipo de tecnologia**, sem repetição po
 
 ![DAMA-DMBOK](https://img.shields.io/badge/DAMA--DMBOK-5B3A8A?style=flat-square) ![Gartner](https://img.shields.io/badge/Gartner-596579?style=flat-square) ![NIST AI RMF](https://img.shields.io/badge/NIST_AI_RMF-17324D?style=flat-square) ![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC_42001-234E70?style=flat-square) ![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-234E70?style=flat-square) ![LGPD](https://img.shields.io/badge/LGPD-137547?style=flat-square)
 
-**Classificação:** DAMA-DMBOK e NIST AI RMF são referenciais; ISO/IEC 42001 e ISO/IEC 27001 são normas; LGPD é legislação; Gartner é uma empresa de pesquisa e análise. Sua presença indica familiaridade ou estudo, não certificação.
+> **Sobre o nível de experiência:** Python, Dart, ferramentas de IA e Power BI aparecem em projetos do portfólio. Flutter, Java, JavaScript, Databricks, Spark e PySpark incluem conhecimentos de formação complementar. Bibliotecas declaradas como dependências não significam uso em todos os experimentos. Normas e referenciais indicam estudo ou familiaridade, não certificação profissional. Gartner é uma empresa de pesquisa, não uma norma.
 
 ---
 
